@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "name": "Sonic",
+      "age": 12,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg",
+      "marks": {
+        "physics": 92,
+        "chemistry": 91,
+        "mathematics": 95,
+        "status": "pass"
+      }
+    },
+    {
+      "name": "speed",
+      "age": 14,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg",
+      "marks": {
+        "physics": 42,
+        "chemistry": 51,
+        "mathematics": 85,
+        "status": "pass"
+      }
+    },
+    {
+      "name": "light",
+      "age": 19,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg",
+      "marks": {
+        "physics": 100,
+        "chemistry": 100,
+        "mathematics": 100,
+        "status": "pass"
+      }
+    },
+    {
+      "name": "rocket",
+      "age": 10,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg",
+      "marks": {
+        "physics": 22,
+        "chemistry": 51,
+        "mathematics": 67,
+        "status": "failed"
+      }
+    }
+  ],
+  "cross": [
+    {
+      "name": "speedGod",
+      "age": 134320,
+      "imageUrl": "https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_1280.jpg"
+    },
+    {
+      "name": "speedDemon",
+      "age": 10
+    },
+    {
+      "name": "Eternity",
+      "age": 134340
+    }
+  ]
+}
